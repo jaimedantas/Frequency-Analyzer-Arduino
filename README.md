@@ -9,3 +9,4 @@ If you wish to know more about this project, you can read the [report](https://g
 
 
 ![https://www.youtube.com/watch?v=YXr14HbQrq8](https://github.com/jaimedantas/Frequency-Analyzer-Arduino/blob/master/video.png)
+https://www.youtube.com/watch?v=YXr14HbQrq8
