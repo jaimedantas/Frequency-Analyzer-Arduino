@@ -1,4 +1,4 @@
-#Spectrum Analyzer in Arduino
+# Spectrum Analyzer in Arduino
 An implementation of a spectrum analyzer in the Arduino Mini using the Goertzel algorithm.
 ![](https://github.com/jaimedantas/Frequency-Analyzer-Arduino/blob/master/device.png)
 
